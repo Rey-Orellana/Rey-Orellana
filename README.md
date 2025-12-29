@@ -12,7 +12,7 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges.
+I am Al-Amin, a passionate tech enthusiast and developer. I love solving problems and constantly exploring new technologies in the dynamic world of software development.
 
 - 🔭 I’m currently working on something cool 😉
 - 👯 I’m looking forward to collaborate on python projects.
@@ -21,52 +21,33 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 ---
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
+
 <table width="100%">
- <tr>
-  <td width="60%" valign="top">
-
-## 🛠️ Habilidades Técnicas
-
-<table>
     <tr>
-        <td style="font-weight: bold; border: none;">Lenguajes:</td>
-        <td><img height="35" src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,bash"/></td>
+        <td width="20%" style="font-weight: bold; border: none;">Lenguajes:</td>
+        <td width="80%"><img height="35" src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php,bash,md,mysql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; border: none;">Frontend:</td>
-        <td><img height="35" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/></td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vue,jquery,mui"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; border: none;">Backend & Frameworks:</td>
-        <td><img height="35" src="https://skillicons.dev/icons?i=django,flask,nodejs,laravel,flutter"/></td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=django,flask,nodejs,express,laravel,flutter,graphql,prisma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; border: none;">Bases de Datos:</td>
-        <td><img height="35" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgres"/></td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgres,mssql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; border: none;">Cloud & DevOps:</td>
-        <td><img height="35" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github"/></td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,githubactions,jenkins"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; border: none;">Herramientas:</td>
-        <td><img height="35" src="https://skillicons.dev/icons?i=vscode,pycharm,intellij,androidstudio,figma,ps,anaconda"/></td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=vscode,pycharm,intellij,androidstudio,postman,figma,ps,linux,windows,anaconda"/></td>
     </tr>
-</table>
-
-  </td>
-  <td width="40%" valign="top">
-
-## 📄📜 Estadísticas
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin2731&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <br><br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin2731&theme=tokyonight&fire=FF801F" />
-</p>
-
-  </td>
- </tr>
 </table>
 
 ---
