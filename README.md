@@ -1,4 +1,3 @@
-## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=alamin2731&style=flat&color=blue)
 
 <h1 align="center">Hi!,  I'm Alamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -13,7 +12,7 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology.
+I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges.
 
 - 🔭 I’m currently working on something cool 😉
 - 👯 I’m looking forward to collaborate on python projects.
@@ -26,44 +25,43 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
  <tr>
   <td width="60%" valign="top">
 
-## 🛠️ Skills
+## 🛠️ Habilidades Técnicas
 
-#### Languages
-![C](https://img.shields.io/badge/C-%232370ED.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-#### Frontend & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=Firebase&logoColor=white)
+<table>
+    <tr>
+        <td style="font-weight: bold; border: none;">Lenguajes:</td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; border: none;">Frontend:</td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; border: none;">Backend & Frameworks:</td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=django,flask,nodejs,laravel,flutter"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; border: none;">Bases de Datos:</td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgres"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; border: none;">Cloud & DevOps:</td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; border: none;">Herramientas:</td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=vscode,pycharm,intellij,androidstudio,figma,ps,anaconda"/></td>
+    </tr>
+</table>
 
   </td>
   <td width="40%" valign="top">
 
-## 📄📜 Stats
+## 📄📜 Estadísticas
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin2731&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <br>
+  <br><br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin2731&theme=tokyonight&fire=FF801F" />
 </p>
 
