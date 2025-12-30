@@ -34,7 +34,7 @@ I am Al-Amin, a passionate tech enthusiast and developer. I love solving problem
     </tr>
     <tr>
         <td style="font-weight: bold; border: none;">Backend & Frameworks:</td>
-        <td><img height="35" src="https://skillicons.dev/icons?i=django,flask,nodejs,express,laravel,flutter,graphql,prisma,vite"/></td>
+        <td><img height="35" src="https://skillicons.dev/icons?i=django,flask,nodejs,express,laravel,flutter,graphql,prisma,vite,vite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; border: none;">Bases de Datos:</td>
