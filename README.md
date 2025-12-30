@@ -1,18 +1,27 @@
 ![](https://komarev.com/ghpvc/?username=alamin2731&style=flat&color=blue)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Borel&size=40&duration=4000&pause=1000&color=27F5EE&center=true&vCenter=true&width=600&lines=Hello!+I'm+Rey+Orellana;Systems+Engineer" alt="Hello! I'm Rey Orellana" />
-</h1>
-
 <div align="center">
 
-<a href="/gif/planet-earth-hd-motion-graphics-background-loop-pfxReu" title="Planet Earth - HD Motion Graphics Background Loop"><img src="https://i.makeagif.com/media/5-08-2016/pfxReu.gif" alt="Planet Earth - HD Motion Graphics Background Loop" height="280" style="border-radius:15px;"></a><div style="font-size:11px;">make <a href="/" title="make a gif">action GIFs</a> like this at MakeaGif</div>
+<a href="https://makeagif.com/i/pfxReu" title="Planet Earth - HD Motion Graphics Background Loop">
+  <img src="https://i.makeagif.com/media/5-08-2016/pfxReu.gif" alt="Planet Earth Animation" height="280" style="border-radius:15px;">
+</a>
+<div style="font-size:11px;">
+  <a href="https://makeagif.com/" title="make a gif">Make action GIFs like this at MakeaGif</a>
+</div>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&color=27F5EE&center=true&vCenter=true&width=900&height=110&lines=Android+Developer;Competitive+Programmer;ML+Enthusiast;Web+Designer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+<h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive;">
+  Hello!, I'm Rey Orellana
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&color=27F5EE&center=true&vCenter=true&width=900&height=110&lines=Systems+Engineer;Android+Developer;Competitive+Programmer;ML+Enthusiast;Web+Designer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
 
 </div>
+
+<p align="center">
+ <img height="180rem" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="border-radius:15px;" />
+</p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 I am Al-Amin, a passionate tech enthusiast and developer. I love solving problems and constantly exploring new technologies in the dynamic world of software development.
