@@ -26,7 +26,7 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 I am Rey Orellana, a passionate tech enthusiast and developer. I love solving problems and constantly exploring new technologies in the dynamic world of software development.
 
-- 🔭 I'm currently working on something cool 😉
+- 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 🌱 Learning about Computer Vision and Machine Learning stuff
 - 💬 Ask me about anything, I am happy to help!
