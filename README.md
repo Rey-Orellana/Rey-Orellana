@@ -2,16 +2,74 @@
 
 <div align="center">
 
+<!-- IMAGEN CON EFECTO DEGRADADO -->
 <a href="https://github.com/Rey-Orellana/Rey-Orellana/blob/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" title="Planet Earth HD Motion Graphics">
-  <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" alt="Planet Earth Animation" height="280" style="border-radius:15px; box-shadow: 0 4px 12px rgba(27, 245, 238, 0.3);">
+  <div style="position: relative; display: inline-block;">
+    <!-- Fondo del glow -->
+    <div style="position: absolute;
+                top: -10px;
+                left: -10px;
+                right: -10px;
+                bottom: -10px;
+                background: linear-gradient(45deg, #27F5EE, #0B8C84, #27F5EE);
+                border-radius: 20px;
+                filter: blur(15px);
+                opacity: 0.4;
+                z-index: 0;">
+    </div>
+    
+    <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" 
+         alt="Planet Earth Animation" 
+         height="280" 
+         style="border-radius:15px; 
+                box-shadow: 0 0 30px rgba(27, 245, 238, 0.6);
+                position: relative;
+                z-index: 1;
+                filter: brightness(1.05) contrast(1.1);">
+    
+    <!-- Degradado en todos los lados -->
+    <div style="position: absolute; 
+                top: 0; 
+                left: 0; 
+                right: 0; 
+                bottom: 0; 
+                border-radius:15px;
+                background: linear-gradient(to right, 
+                    rgba(13, 17, 23, 0.5) 0%, 
+                    transparent 10%, 
+                    transparent 90%, 
+                    rgba(13, 17, 23, 0.5) 100%),
+                  linear-gradient(to bottom, 
+                    rgba(13, 17, 23, 0.5) 0%, 
+                    transparent 10%, 
+                    transparent 90%, 
+                    rgba(13, 17, 23, 0.5) 100%);
+                z-index: 2;
+                pointer-events: none;
+                mix-blend-mode: multiply;">
+    </div>
+    
+    <!-- Vignette adicional -->
+    <div style="position: absolute; 
+                top: 0; 
+                left: 0; 
+                right: 0; 
+                bottom: 0; 
+                border-radius:15px;
+                background: radial-gradient(circle at center, transparent 40%, rgba(0, 0, 0, 0.3) 100%);
+                z-index: 3;
+                pointer-events: none;">
+    </div>
+  </div>
 </a>
-<div style="font-size:11px; color:#888; margin-top:5px;">
-  Planet Earth - HD Motion Graphics Background Loop
+
+<div style="font-size:11px; color:#888; margin-top:8px;">
+  <strong style="color:#27F5EE;">Planet Earth - HD Motion Graphics Background Loop</strong>
 </div>
 
 <br>
 
-<h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive;">
+<h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive; text-shadow: 0 0 10px rgba(39, 245, 238, 0.5);">
   Hello!, I'm Rey Orellana
 </h1>
 
@@ -20,7 +78,7 @@
 </div>
 
 <p align="center">
- <img height="180rem" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="border-radius:15px;" />
+ <img height="180rem" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="border-radius:15px; box-shadow: 0 0 20px rgba(27, 245, 238, 0.4);" />
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
@@ -123,4 +181,6 @@ I am Rey Orellana, a passionate tech enthusiast and developer. I love solving pr
 
 </div>
 
-*Última actualización: $(date +%d/%m/%Y)*
+<div align="right" style="font-size: 10px; color: #666; margin-top: 20px;">
+  Last update: $(date +%d/%m/%Y)
+</div>
