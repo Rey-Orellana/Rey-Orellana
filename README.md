@@ -29,7 +29,7 @@ I am Rey Orellana, a passionate tech enthusiast and developer. I love solving pr
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 🌱 Learning about Computer Vision and Machine Learning stuff
-- 💬 Ask me about anything, I am happy to help!
+- 💬 Ask me about anything, Estoy feliz de ayudarte!
 
 ---
 
