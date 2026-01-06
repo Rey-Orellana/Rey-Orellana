@@ -30,8 +30,6 @@ I am Rey Orellana, a passionate tech enthusiast and developer. I love solving pr
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
 
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <table width="100%">
