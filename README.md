@@ -114,7 +114,7 @@ I am Rey Orellana, a passionate tech enthusiast and developer. I love solving pr
 ---
 <div align="center">
   
-### ⭐️ **Star my repositories if you find them useful!** ⭐️
+### ⭐️ **Este es mi repositorio GitHub we :)** ⭐️
 
 ![Visitor Count](https://profile-counter.glitch.me/Rey-Orellana/count.svg)
 
