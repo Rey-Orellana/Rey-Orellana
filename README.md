@@ -110,7 +110,7 @@ I am Rey Orellana, Java ins Fun :). I love solving problems and constantly explo
 </p>
 
 <p align="center"><b>Gracias por leer todo mi respositorio!</b></p>
-
+<p>Es bueno saber programar dado que es una hab ilidad que nadie posee we</p>
 ---
 <div align="center">
   
