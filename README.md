@@ -113,7 +113,7 @@ I am Rey Orellana, Java ins Fun :). I love solving problems and constantly explo
 ---
 <div align="center">
   
-### ⭐️ **Este es mi repositorio GitHub we :)** ⭐️
+### ⭐️ **Este es mi repositorio GitHub we :), es muy bonito verdad we** ⭐️
 
 ![Visitor Count](https://profile-counter.glitch.me/Rey-Orellana/count.svg)
 
