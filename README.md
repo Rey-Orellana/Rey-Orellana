@@ -24,7 +24,7 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
-I am Rey Orellana, Java ins Fun :). I love solving problems and constantly exploring new technologies in the dynamic world of software development.
+I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la implementeacion de algoritmos we.
 
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
