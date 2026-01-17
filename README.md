@@ -109,7 +109,7 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 
 </p>
 
-<p align="center"><b>Gracias por leer todo mi respositorio!</b></p>
+<p align="center"><b>Gracias por leer todo mi respositorio Toy aprendiendo Java & JavaScript!</b></p>
 ---
 <div align="center">
   
