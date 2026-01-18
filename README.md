@@ -3,16 +3,16 @@
 <div align="center">
 
 <a href="https://github.com/Rey-Orellana/Rey-Orellana/blob/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" title="Planet Earth HD Motion Graphics">
-  <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" alt="Planet Earth Animation" height="280" style="border-radius:15px; box-shadow: 0 4px 12px rgba(27, 245, 238, 0.3);">
+  <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" alt="Tamos activos" height="280" style="border-radius:15px; box-shadow: 0 4px 12px rgba(27, 245, 238, 0.3);">
 </a>
 <div style="font-size:11px; color:#888; margin-top:5px;">
-  Planet Earth - HD Motion Graphics Background Loop
+  El Planeta We
 </div>
 
 <br>
 
 <h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive;">
-  Hello!, I'm Rey Orellana
+  Hola!, I'm Rey Orellana
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&color=27F5EE&center=true&vCenter=true&width=900&height=110&lines=Systems+Engineer;Android+Developer;Competitive+Programmer;ML+Enthusiast;Web+Designer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
