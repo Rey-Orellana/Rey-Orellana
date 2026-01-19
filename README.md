@@ -29,6 +29,7 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
+- Seguimos Aprendiendo continuamente Papulince
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
@@ -93,7 +94,7 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 
 </div>
 
-## <b>🔥 Recent Activity</b>
+## <b>🔥 Actividad Reciente</b>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
