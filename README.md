@@ -29,7 +29,6 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
-- Nueva Linea para actualziar
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
@@ -114,7 +113,7 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 ---
 <div align="center">
   
-### ⭐️ **Este es mi repositorio GitHub we :), es muy bonito verdad we** ⭐️
+### ⭐️ **Este es mi repositorio GitHub we** ⭐️
 
 ![Visitor Count](https://profile-counter.glitch.me/Rey-Orellana/count.svg)
 
