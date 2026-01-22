@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive;">
-  Hola!, I'm Rey Orellana
+  Hola!, I'm Rey Orellana Aica
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&color=27F5EE&center=true&vCenter=true&width=900&height=110&lines=Systems+Engineer;Android+Developer;Competitive+Programmer;ML+Enthusiast;Web+Designer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
@@ -29,6 +29,8 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
+- Empezsar a programar es mi pasion we
+- Hayq ue hacer nuevas cosas
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
