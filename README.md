@@ -6,13 +6,13 @@
   <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" alt="Tamos activos" height="280" style="border-radius:15px; box-shadow: 0 4px 12px rgba(27, 245, 238, 0.3);">
 </a>
 <div style="font-size:11px; color:#888; margin-top:5px;">
-  El Planeta We
+  El Planeta We, esta ingreible no papus
 </div>
 
 <br>
 
 <h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive;">
-  Hola!, I'm Rey Orellana Aica
+  Hola!, I'm Rey Orellana
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&color=27F5EE&center=true&vCenter=true&width=900&height=110&lines=Systems+Engineer;Android+Developer;Competitive+Programmer;ML+Enthusiast;Web+Designer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
@@ -29,6 +29,7 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
+- Nueva linea para hacer cositas
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
@@ -93,7 +94,7 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 
 </div>
 
-## <b>🔥 Actividad Reciente We</b>
+## <b>🔥 Actividad Reciente </b>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -109,7 +110,7 @@ I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la im
 
 </p>
 
-<p align="center"><b>Gracias por leer todo mi respositorio Toy aprendiendo Java & JavaScript!</b></p>
+<p align="center"><b>Gracias por leer todo mi respositorio!</b></p>
 ---
 <div align="center">
   
