@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" alt="Tamos activos" height="280" style="border-radius:15px; box-shadow: 0 4px 12px rgba(27, 245, 238, 0.3);">
 </a>
 <div style="font-size:11px; color:#888; margin-top:5px;">
-  El Planeta We, esta ingreible no papus
+  El Planeta
 </div>
 
 <br>
@@ -24,12 +24,11 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
-I am Rey Orellana, Java ins Fun :). Me encanta resolver problemas mediante la implementeacion de algoritmos we.
+I am Rey Orellana.
 
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
-- Nueva linea para hacer cositas
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
