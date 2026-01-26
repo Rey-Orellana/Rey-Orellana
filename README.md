@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" alt="Tamos activos" height="280" style="border-radius:15px; box-shadow: 0 4px 12px rgba(27, 245, 238, 0.3);">
 </a>
 <div style="font-size:11px; color:#888; margin-top:5px;">
-  El Planeta
+  The Planet is amazing!
 </div>
 
 <br>
@@ -24,12 +24,12 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
-I am Rey Orellana.
+I am Rey Orellana Bro.
 
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
-
+- Nueva Linea en mi portafolio
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <table width="100%">
@@ -109,7 +109,7 @@ I am Rey Orellana.
 
 </p>
 
-<p align="center"><b>Gracias por leer todo mi respositorio!</b></p>
+<p align="center"><b>Gracias por leer todo mi respositorio :)!</b></p>
 ---
 <div align="center">
   
