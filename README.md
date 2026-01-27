@@ -29,7 +29,6 @@ I am Rey Orellana Bro.
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
-- Nueva Linea en mi portafolio
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <table width="100%">
@@ -109,7 +108,7 @@ I am Rey Orellana Bro.
 
 </p>
 
-<p align="center"><b>Gracias por leer todo mi respositorio :)!</b></p>
+<p align="center"><b>Gracias por leer todo mi respositorio</b></p>
 ---
 <div align="center">
   
