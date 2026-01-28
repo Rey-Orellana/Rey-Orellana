@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive;">
-  Hola!, I'm Rey Orellana
+  Hello!, I'm Rey Orellana
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&color=27F5EE&center=true&vCenter=true&width=900&height=110&lines=Systems+Engineer;Android+Developer;Competitive+Programmer;ML+Enthusiast;Web+Designer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
@@ -29,6 +29,7 @@ I am Rey Orellana Bro.
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
+- Estoy postulando a un beca con la ayuda de DIOS todo poderoso lo lograré y saldre victorioso
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <table width="100%">
@@ -108,7 +109,7 @@ I am Rey Orellana Bro.
 
 </p>
 
-<p align="center"><b>Gracias por leer todo mi respositorio</b></p>
+<p align="center"><b>Gracias por leer todo mi respositorio...</b></p>
 ---
 <div align="center">
   
