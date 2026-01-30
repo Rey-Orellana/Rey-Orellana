@@ -24,12 +24,11 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
-I am Rey Orellana Bro.
+I am Rey Orellana.
 
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
-- Estoy postulando a un beca con la ayuda de DIOS todo poderoso lo lograré y saldre victorioso
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <table width="100%">
