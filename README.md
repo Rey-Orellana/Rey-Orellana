@@ -6,13 +6,13 @@
   <img src="https://raw.githubusercontent.com/Rey-Orellana/Rey-Orellana/main/Planet_Earth_HD_Motion_Graphics_Background_Loop.gif" alt="Tamos activos" height="280" style="border-radius:15px; box-shadow: 0 4px 12px rgba(27, 245, 238, 0.3);">
 </a>
 <div style="font-size:11px; color:#888; margin-top:5px;">
-  The Planet
+  The Planet Earth
 </div>
 
 <br>
 
 <h1 align="center" style="color: #27F5EE; font-family: 'Borel', cursive;">
-  Hello!, I'm Rey Orellana
+  Hello!, I'm Rey Orellana A.
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&color=27F5EE&center=true&vCenter=true&width=900&height=110&lines=Systems+Engineer;Android+Developer;Competitive+Programmer;ML+Enthusiast;Web+Designer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
@@ -29,7 +29,6 @@ I am Rey Orellana.
 - 🔭 Estoy laburando loco 😉
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
-- Nueva 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <table width="100%">
@@ -113,7 +112,7 @@ I am Rey Orellana.
 ---
 <div align="center">
   
-### ⭐️ **Este es mi repositorio GitHub** ⭐️
+### ⭐️ **Este es mi repositorio GitHub BRO'S** ⭐️
 
 ![Visitor Count](https://profile-counter.glitch.me/Rey-Orellana/count.svg)
 
