@@ -30,6 +30,7 @@ I am Rey Orellana.
 - 👯 I'm looking forward to collaborate on Python projects.
 - 💬 Ask me about anything, Estoy feliz de ayudarte!
 - New Task u=in my File
+- WhatsUp Brow?
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 <table width="100%">
@@ -93,7 +94,7 @@ I am Rey Orellana.
 
 </div>
 
-## <b>🔥 Actividad Reciente </b>
+## <b>🔥 Actividad Reciente en mi Repositorio</b>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
