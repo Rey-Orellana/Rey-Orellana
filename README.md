@@ -23,7 +23,7 @@
  <img height="180rem" alt="Coding GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" style="border-radius:15px;" />
 </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me :)</b>
 I am Rey Orellana.
 
 - 🔭 Estoy laburando loco 😉
